@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="13477" started-at="2020-05-01T06:33:38 IST" finished-at="2020-05-01T06:33:52 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="13477" started-at="2020-05-01T06:33:38 IST" finished-at="2020-05-01T06:33:52 IST">
+      <class name="com.tests.Git_Gmail_MavenProject7.LoginTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.tests.Git_Gmail_MavenProject7.LoginTest@27c20538]" name="SetUp" is-config="true" duration-ms="9075" started-at="2020-05-01T06:33:38 IST" finished-at="2020-05-01T06:33:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="doLogin()[pri:0, instance:com.tests.Git_Gmail_MavenProject7.LoginTest@27c20538]" name="doLogin" duration-ms="4350" started-at="2020-05-01T06:33:47 IST" finished-at="2020-05-01T06:33:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+      </class> <!-- com.tests.Git_Gmail_MavenProject7.LoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
